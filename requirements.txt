@@ -5,3 +5,7 @@ open3d
 
 # image
 opencv-python
+
+# visualization
+matplotlib
+nibabel
